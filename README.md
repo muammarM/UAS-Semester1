@@ -11,6 +11,7 @@ Cara menjalankan Program:
 
 ## Untuk penjelasannya program berupa pdf silahkan kunjungi link berikut:
 
+Berikut link untuk file pdf
 [klik untuk google drive](https://drive.google.com/file/d/1W5xCDywkq8ueLok23L90zJY5ouEckwVs/view?usp=sharing)
 
 Berikut link repository github

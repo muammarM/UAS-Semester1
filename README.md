@@ -11,14 +11,14 @@ Cara menjalankan Program:
 
 ## Untuk penjelasannya program berupa pdf silahkan kunjungi link berikut:
 
-[link]https://drive.google.com/file/d/1W5xCDywkq8ueLok23L90zJY5ouEckwVs/view?usp=sharing
+[klik untuk google drive](https://drive.google.com/file/d/1W5xCDywkq8ueLok23L90zJY5ouEckwVs/view?usp=sharing)
 
 Berikut link repository github
-[link](https://github.com/muammarM/UAS-Semester1.git)
+[klik untuk github](https://github.com/muammarM/UAS-Semester1.git)
 
 Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 Video youtube.
 
-[link](https://youtu.be/zRNO_fYwQg8)
+[klik untuk ke youtube](https://youtu.be/zRNO_fYwQg8)
 
 ## KURANG LEBIHNYA MOHON MAAF SEKIAN TERIMA KASIH

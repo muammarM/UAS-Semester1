@@ -1,4 +1,4 @@
-## Latihan MVC model view controller dengan python
+## Latihan membuat data mahasiswa dengan pemrograman python
 ## Repository ini dibuat sebagai Project Uas Teknik Informatika Universitas Pelita Bangsa
 Membuat sebuah program nilai mahasiswa sederhana dengan menggunakan bahasa pemograman python.
 
@@ -11,7 +11,7 @@ Cara menjalankan Program:
 
 ## Untuk penjelasannya program berupa pdf silahkan kunjungi link berikut:
 
-[link](https://1drv.ms/b/s!ApjCksXODMGecTCyRqXQ2LaBfZc?e=NNBCxe)
+[link]https://drive.google.com/file/d/1W5xCDywkq8ueLok23L90zJY5ouEckwVs/view?usp=sharing
 
 Berikut link repository github
 [link](https://github.com/muammarM/UAS-Semester1.git)
